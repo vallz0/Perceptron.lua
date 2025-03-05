@@ -1,4 +1,3 @@
-
 local Perceptron = {}
 Perceptron.__index = Perceptron
 
